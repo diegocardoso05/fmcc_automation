@@ -1,0 +1,21 @@
+{
+"costumer_name":"TESTE QA",
+"dealer_name":"DIEGO",
+"vehicle_year":"2017",
+"vehicle_model":"F-450 4X4",
+"vehicle_vin":"ST736PQ938",
+"sellingPrice":"15000.00",
+"leaseTerm":"36",
+"retail_term":"4",
+"cashdown":"100.00",
+"commerciallease":"1",
+"retail_rebate":"3",
+"trade_equity":"5",
+"taxes_upfront":"yes",
+"residual":"30.00",
+"lease_rate":"4.2",
+"retail_rate":"5",
+"payments_in_advance":"yes",
+"tax_rate":"1",
+"comparison_notes":"Test test, test"
+}

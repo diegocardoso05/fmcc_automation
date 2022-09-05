@@ -1,0 +1,12 @@
+{
+    "chromeWebSecurity": false,
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "timeout": 2000,
+    "baseUrl": "http://localhost:8080/#/",
+    "reporter": "mocha-junit-reporter",
+    "reporterOptions": {
+      "mochaFile": "cypress/reports/junit/test-results.[hash].xml",
+      "testsuitesTitle": false
+    }
+}

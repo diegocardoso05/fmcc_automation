@@ -1,0 +1,24 @@
+{
+  "name": "fmcc_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  },
+  "devDependencies":  {
+    "cypress-multi-reporters": "^1.2.4",
+    "mocha-junit-reporter": "^1.23.3"
+  },
+  "scripts": {
+    "cypress:open": "npx cypress open",
+    "cypress:verify": "cypress verify",
+    "test": "cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jacksondawson.visualstudio.com/IS_Ford_FMCC3ToolWebConversion/_git/IS_Ford_FMCC3ToolWebConversion_Automated_Test"
+  },
+  "author": "Diego Cardoso",
+  "license": "ISC"
+}
